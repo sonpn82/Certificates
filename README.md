@@ -19,3 +19,7 @@ Programming
 
 Database
   + Udemy Fundamentals of Database Engineering
+
+Language
+  + TOEIC: 965/990
+  + TOPIK: Level 5 (229/300)
