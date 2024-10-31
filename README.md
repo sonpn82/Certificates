@@ -7,6 +7,7 @@ Data sciences and data analysis
   + Udemy Microsoft Power BI Desktop for Business Intelligence
   + Udemy Microsoft Power BI Services Completion
   + Udemy Advanced DAX for MS Power BI Desktop
+  + Udemy Power BI Business Intelligence for Beginners to Advance Completion Certificate
  
 AI
   + Coursera IBM AI Engineering Specialization professional certificate
