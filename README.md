@@ -17,6 +17,7 @@ Programming
   + Udemy The Web Developer Bootcamp Udemy Completion certificate
   + Udemy The advanced web Developer bootcamp
   + Udemy Building an app with dotnet core and React Completion certificate
+  + Udemy Window Presentation Foundation Master Class
 
 Database
   + Udemy Fundamentals of Database Engineering
