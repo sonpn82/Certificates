@@ -11,6 +11,7 @@ Data sciences and data analysis
  
 AI
   + Coursera IBM AI Engineering Specialization professional certificate
+  + Udemy The complete AI Guide: Learn ChatGPT, Generative AI and more
 
 Programming
   + Udemy C# Dot Net Core 7 with MS SQL Complete Beginner to Master 2023
