@@ -25,6 +25,7 @@ Database
 
 3D Modeling
   + Udemy - Solid Edge The Completion Guide
+  + Udemy - Siemens Solid Edge Essential Training
 
 Language
   + TOEIC: 965/990
